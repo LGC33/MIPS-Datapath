@@ -40,7 +40,7 @@ class Link;
 
 class GLCanvas : public wxGLCanvas
 {
-	typedef enum _Layout Layout;
+	typedef enum Layout Layout;
 public:
 	GLCanvas(Model* proc,
 		wxWindow* parent,

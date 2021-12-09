@@ -24,7 +24,6 @@
 #define COMPONENT_H_
 
 #include <GL/glut.h>
-#include <wx/msw/winundef.h>
 
 #include <cmath>
 #include <string>
